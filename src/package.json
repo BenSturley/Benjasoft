@@ -1,0 +1,29 @@
+{
+  "name": "benjasoft",
+  "version": "1.0.0",
+  "description": "benjasoft is benjasoft. leave it alone,",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Sturley <bensturley@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenSturley/Benjasoft.git"
+  },
+  "keywords": [
+    "benjasoft"
+  ],
+  "bugs": {
+    "url": "https://github.com/BenSturley/Benjasoft/issues"
+  },
+  "homepage": "https://github.com/BenSturley/Benjasoft#readme",
+  "dependencies": {
+    "eslint": "^5.12.0"
+  },
+  "devDependencies": {
+    "inquirer": "^6.2.1",
+    "readline": "^1.3.0"
+  }
+}
